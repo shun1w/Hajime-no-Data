@@ -38,8 +38,8 @@ Python超入門
 ### Notebookへのリンク
 
 - **Python入門**:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wakabayashishunichi/Hajime-no-Data/blob/main/Python.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Python.ipynb)
 
 - **機械学習入門（医学生向け）**:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wakabayashishunichi/Hajime-no-Data/blob/main/Machine_learning.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Machine_learning.ipynb)
 
