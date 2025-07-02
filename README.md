@@ -42,11 +42,22 @@ Python超入門
   - **臨床応用**: 感度・特異度の観点からのモデル解釈と臨床での注意点
 - **目標**: 実際の医療データが持つ課題を理解し、データ前処理からモデル構築、評価までの一連の流れを習得する
 
+### 4. `Python_45min.ipynb`
+- **目的**: 限られた時間で、データ分析の主要な流れ（データ準備〜可視化）を効率的に体験したい方向け。
+- **対象者**: データ分析の全体像を短時間で掴みたい方、またはPythonの基本を最小限に抑えたい方。
+- **学べる内容**:
+  - 最小限のPython基礎（print文と変数）
+  - pandasを使ったデータ操作の基礎（DataFrame作成、基本的な統計情報、列の追加）
+  - データのフィルタリング、並び替え、グループ化
+  - matplotlibを使った基本的なデータ可視化（棒グラフ、散布図、複数グラフ）
+- **所要時間目安**: 45分
+
 ## 学習の推奨順序
 
 1. **Python入門** (`Python.ipynb`) - プログラミングが初めての方はここから
 2. **統計分析入門** (`Statistics_basics.ipynb`) - 統計の基礎を30分で学習
 3. **機械学習入門** (`Machine_learning.ipynb`) - より高度な予測モデルの構築
+4. **Python入門（45分コース）** (`Python_45min.ipynb`) - 短時間でデータ分析の全体像を掴みたい方はこちら
 
 ## Google Colabでの使用方法
 
@@ -65,4 +76,7 @@ Python超入門
 
 - **機械学習入門（医学生向け）**:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Machine_learning.ipynb)
+
+- **Python入門（45分コース）**:
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Python_45min.ipynb)
 
