@@ -52,6 +52,22 @@ Python超入門
   - matplotlibを使った基本的なデータ可視化（棒グラフ、散布図、複数グラフ）
 - **所要時間目安**: 45分
 
+### 5. `Machine_learning_45min.ipynb`
+- **目的**: 45分で機械学習の一連の流れ（データ読み込み〜予測モデル作成〜評価）を体験する
+- **対象者**: `Python_45min.ipynb` を終えた方（45分×2コマ講座の2コマ目）
+- **学べる内容**:
+  - 実データ（Pima Indians Diabetes Dataset）の読み込みと観察
+  - データクリーニング（生理学的にありえない0の中央値補完）
+  - ロジスティック回帰モデルの構築と評価（正解率・混同行列）
+  - 決定木の可視化
+  - 新しい患者データでの予測
+- **所要時間目安**: 45分
+
+## 45分×2コマ講座での推奨構成
+
+1. **1コマ目**: `Python_45min.ipynb` — Pythonとデータ分析の基礎
+2. **2コマ目**: `Machine_learning_45min.ipynb` — 予測モデルの構築
+
 ## 学習の推奨順序
 
 1. **Python入門** (`Python.ipynb`) - プログラミングが初めての方はここから
@@ -79,4 +95,7 @@ Python超入門
 
 - **Python入門（45分コース）**:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Python_45min.ipynb)
+
+- **機械学習入門（45分コース）**:
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shun1w/Hajime-no-Data/blob/main/Machine_learning_45min.ipynb)
 
