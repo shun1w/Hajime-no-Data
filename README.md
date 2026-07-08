@@ -68,6 +68,9 @@ Python超入門
 1. **1コマ目**: `Python_45min.ipynb` — Pythonとデータ分析の基礎
 2. **2コマ目**: `Machine_learning_45min.ipynb` — 予測モデルの構築
 
+各ノートブックの末尾に「おまけ：AIと一緒に学ぶ」セクションがあります（Colab内蔵の無料AIアシスタントを使った体験課題）。
+自宅学習用の案内は [AIと一緒にPythonを学ぶガイド](AI_study_guide.md) を参照してください。
+
 ## 学習の推奨順序
 
 1. **Python入門** (`Python.ipynb`) - プログラミングが初めての方はここから
